@@ -23,3 +23,10 @@ index = str1[2]
 print(index)
 print(str1[2:5])
 print(str1[1:]) # it will print starting till end becuase : will print entire stirng
+
+# boolean 
+done = 5
+if done:
+    print("yes") 
+else:
+    print("no")    
