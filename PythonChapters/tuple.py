@@ -12,7 +12,7 @@ print(mytuple[1])
 print(mytuple[-1])
 thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
 print(thistuple[2:5])
-# Change Tuple Values
+#  Change Tuple Values below example
 x = ("apple", "banana", "cherry")
 y = list(x)
 y[1] = "kiwi"
