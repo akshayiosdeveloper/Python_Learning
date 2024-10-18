@@ -3,4 +3,5 @@ learning about list
 learn about tuples
 working on set
 working on lambda functions
+learned about class 
 
