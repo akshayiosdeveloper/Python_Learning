@@ -5,4 +5,7 @@ working on set
 working on lambda functions
 learned about class 
 learn about inheritance
+learn about polymorpshism
+learn about scope
+learn about iterator 
 
