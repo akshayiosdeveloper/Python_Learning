@@ -9,4 +9,5 @@ learn about polymorpshism
 learn about scope
 learn about iterator 
 complete python complete basic course
+numpy in python
 
