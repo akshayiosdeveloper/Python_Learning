@@ -10,4 +10,6 @@ learn about scope
 learn about iterator 
 complete python complete basic course
 numpy in python
+learn about copy vs view 
+learn about shape in numpy
 
